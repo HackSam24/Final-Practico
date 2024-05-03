@@ -1,0 +1,5 @@
+lista de compras:
+  gin 
+  agua tonica
+  medio kilo de lima 
+  bolsa de azucar
